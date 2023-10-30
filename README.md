@@ -22,6 +22,11 @@ The following terms should be passed from the Example,
 - cucumber-java
 - cucumber-junit
 
+## Prerequisite:
+- Java 8 or latest version
+- Intellij IDEA or any java IDE
+- Configure JAVA_HOME and GRADLE_HOME
+
 ## How to run this project: 
 - Clone this project
 - follow this instruction:
